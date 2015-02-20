@@ -4,7 +4,7 @@
 .heading {
   font-variant: small-caps;
   letter-spacing: 3px;
-  font-size: 24pt;
+  font-size: 30px;
 }
 body {
   background-color: #eeeeee;
@@ -18,21 +18,22 @@ body {
   font-size: 12pt;
 }
 h1.name {
-  font-size: 48pt;
+  font-size: 48px;
 }
 h2.city {
   font-variant: small-caps;
   letter-spacing: 3px;
-  font-size: 24pt;
+  font-size: 30px;
   margin-top: 0px;
 }
 .job {
   opacity: 0.54;
-  line-height: 30pt;
+  margin-top: 50px;
+  line-height: 1.2;
 }
 /* styles for menu */
 .menu {
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .menu a,
 .menu a:hover,
@@ -51,5 +52,5 @@ h2.city {
   float: left;
   font-variant: small-caps;
   letter-spacing: 3px;
-  font-size: 24pt;
+  font-size: 30px;
 }
