@@ -13,6 +13,11 @@
 
 Route::get('/', 'WelcomeController@index');
 
+Route::get('work', function()
+{
+	return View::make('work');
+});
+
 Route::get('home', 'HomeController@index');
 
 Route::controllers([

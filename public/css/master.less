@@ -1,6 +1,6 @@
 @grey200: #eeeeee;
 
-@black: #000000;
+@black: #333;
 
 @raleway: 'Raleway', sans-serif;
 
@@ -12,6 +12,7 @@
 }
 
 .heading {
+	font-family: @raleway;
 	font-variant: small-caps;
 	letter-spacing: 3px;
 	font-size: 30px;
@@ -21,6 +22,9 @@ body {
 	background-color: @grey200;
 	font-family: @black;
 }
+
+/* Styles for mastehead*/
+
 
 .masthead {
 	font-family: @raleway;
@@ -34,6 +38,11 @@ body {
 
 h1.name {
 	font-size: 48px;
+}
+
+h1.name a, .menu:hover, .menu a:focus {
+	color: @black;
+	text-decoration: none;
 }
 
 h2.city {
@@ -54,7 +63,7 @@ h2.city {
 }
 
 .menu a, .menu a:hover, .menu a:focus {
-	color: black;
+	color: @black;
 }
 .menu i {
 	display: block;
@@ -71,10 +80,13 @@ h2.city {
 	.heading;
 }
 
-
+.icons a, .icons a:hover, .icons a:focus {
+	color: @black;
+	text-decoration: none;
+}
 /* styles for content */
 
-.content {
+.feature {
 	margin-top: 100px;
 }
 
@@ -83,7 +95,60 @@ h2.city {
 }
 
 .profile p {
-	border-top: 1px solid black;
+	border-top: 2px solid black;
 	padding-top: 10px;
 	font-size: 16px;
+}
+
+.circle {
+	color: @grey200;
+	padding: 15px;
+	border-radius: 99%;
+	background-color: @black;
+}
+
+.feature .heading {
+	padding-top: 15px;
+}
+
+.feature-heading {
+	border-top: 2px solid black;
+}
+
+.feature-main {
+	font-family: @lato;
+	margin-top: 10px;
+}
+
+.subheading {
+	font-family: @raleway;
+	font-size: 24px;
+}
+
+.subheading-secondary {
+	font-size: 18px;
+	.secondary;
+}
+
+.location {
+	font-size: 14px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid black;
+}
+
+.list {
+	font-size: 16px;
+	margin-top: 10px;
+	position: relative;
+	left: -1em;
+}
+
+.list ul {
+	list-style: disc outside none;
+	margin-left: 0;
+	padding-left: 1em;
+}
+
+.list ul li {
+	line-height: 1.75;
 }

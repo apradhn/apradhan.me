@@ -2,14 +2,16 @@
   opacity: 0.54;
 }
 .heading {
+  font-family: 'Raleway', sans-serif;
   font-variant: small-caps;
   letter-spacing: 3px;
   font-size: 30px;
 }
 body {
   background-color: #eeeeee;
-  font-family: #000000;
+  font-family: #333333;
 }
+/* Styles for mastehead*/
 .masthead {
   font-family: 'Raleway', sans-serif;
   margin-top: 50px;
@@ -21,7 +23,14 @@ body {
 h1.name {
   font-size: 48px;
 }
+h1.name a,
+.menu:hover,
+.menu a:focus {
+  color: #333333;
+  text-decoration: none;
+}
 h2.city {
+  font-family: 'Raleway', sans-serif;
   font-variant: small-caps;
   letter-spacing: 3px;
   font-size: 30px;
@@ -39,7 +48,7 @@ h2.city {
 .menu a,
 .menu a:hover,
 .menu a:focus {
-  color: black;
+  color: #333333;
 }
 .menu i {
   display: block;
@@ -51,19 +60,69 @@ h2.city {
 }
 .menu-links h3 {
   float: left;
+  font-family: 'Raleway', sans-serif;
   font-variant: small-caps;
   letter-spacing: 3px;
   font-size: 30px;
 }
+.icons a,
+.icons a:hover,
+.icons a:focus {
+  color: #333333;
+  text-decoration: none;
+}
 /* styles for content */
-.content {
+.feature {
   margin-top: 100px;
 }
 .profile {
   font-family: 'Lato', sans-serif;
 }
 .profile p {
-  border-top: 1px solid black;
+  border-top: 2px solid black;
   padding-top: 10px;
   font-size: 16px;
+}
+.circle {
+  color: #eeeeee;
+  padding: 15px;
+  border-radius: 99%;
+  background-color: #333333;
+}
+.feature .heading {
+  padding-top: 15px;
+}
+.feature-heading {
+  border-top: 2px solid black;
+}
+.feature-main {
+  font-family: 'Lato', sans-serif;
+  margin-top: 10px;
+}
+.subheading {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+}
+.subheading-secondary {
+  font-size: 18px;
+  opacity: 0.54;
+}
+.location {
+  font-size: 14px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
+.list {
+  font-size: 16px;
+  margin-top: 10px;
+  position: relative;
+  left: -1em;
+}
+.list ul {
+  list-style: disc outside none;
+  margin-left: 0;
+  padding-left: 1em;
+}
+.list ul li {
+  line-height: 1.75;
 }

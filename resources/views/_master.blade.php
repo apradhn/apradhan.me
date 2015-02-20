@@ -21,13 +21,24 @@
 		<div class="container-fluid">
 			<div class="row masthead">
 				<div class="col-md-6 col-md-offset-1">
-					<h1 class="name">Abhijit Pradhan</h1>
+					<h1 class="name"><a href="/">Abhijit Pradhan</a></h1>
 					<h2 class="city">Chicago, IL</h2>
 					<h2 class="job">web design <br>&amp; front-end development</h2>
 					<!-- <p><a class="email" href="mailto:abhijit@apradhan.me">abhijit@apradhan.me</a></p> -->
 				</div>
 				
-				@yield('menu')
+				<div class="col-md-4 menu">
+					<div class="icons">
+						<a href="/work"><i class="fa fa-briefcase fa-3x"></i></a>
+						<a href="/education"><i class="fa fa-graduation-cap fa-3x"></i></a>
+						<a href="/apps"><i class="fa fa-laptop fa-3x"></i></a>
+					</div>
+					<div class="menu-links">
+						<h3><a href="/work">Work</a></h3>
+						<h3><a href="/education">Education</a></h3>
+						<h3><a href="/apps">Apps</a></h3>
+					</div>
+				</div>
 				
 			</div>
 			@yield('content')
