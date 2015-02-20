@@ -26,22 +26,13 @@
 					<h2 class="job">web design <br>&amp; front-end development</h2>
 					<!-- <p><a class="email" href="mailto:abhijit@apradhan.me">abhijit@apradhan.me</a></p> -->
 				</div>
-				
-				<div class="col-md-4 menu">
-					<div class="icons">
-						<a href="/work"><i class="fa fa-briefcase fa-3x"></i></a>
-						<a href="/education"><i class="fa fa-graduation-cap fa-3x"></i></a>
-						<a href="/apps"><i class="fa fa-laptop fa-3x"></i></a>
-					</div>
-					<div class="menu-links">
-						<h3><a href="/work">Work</a></h3>
-						<h3><a href="/education">Education</a></h3>
-						<h3><a href="/apps">Apps</a></h3>
-					</div>
-				</div>
-				
+
+				@yield('menu')
+
 			</div>
+
 			@yield('content')
+			
 		</div>
 	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
