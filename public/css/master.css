@@ -1,0 +1,55 @@
+.secondary {
+  opacity: 0.54;
+}
+.heading {
+  font-variant: small-caps;
+  letter-spacing: 3px;
+  font-size: 24pt;
+}
+body {
+  background-color: #eeeeee;
+}
+.masthead {
+  font-family: 'Raleway', sans-serif;
+  margin-top: 50px;
+}
+.masthead .email {
+  font-family: 'Lato', sans-serif;
+  font-size: 12pt;
+}
+h1.name {
+  font-size: 48pt;
+}
+h2.city {
+  font-variant: small-caps;
+  letter-spacing: 3px;
+  font-size: 24pt;
+  margin-top: 0px;
+}
+.job {
+  opacity: 0.54;
+  line-height: 30pt;
+}
+/* styles for menu */
+.menu {
+  margin-top: 20px;
+}
+.menu a,
+.menu a:hover,
+.menu a:focus {
+  color: black;
+}
+.menu i {
+  display: block;
+  margin-top: 20px;
+}
+.icons {
+  float: left;
+  margin-right: 20px;
+}
+.menu-links h3 {
+  float: left;
+  font-variant: small-caps;
+  letter-spacing: 3px;
+  font-size: 24pt;
+}

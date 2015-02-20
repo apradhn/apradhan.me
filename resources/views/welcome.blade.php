@@ -1,46 +1,29 @@
-<html>
-	<head>
-		<link href='//fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
+@extends ('_master')
 
-		<style>
-			body {
-				margin: 0;
-				padding: 0;
-				width: 100%;
-				height: 100%;
-				color: #B0BEC5;
-				display: table;
-				font-weight: 100;
-				font-family: 'Lato';
-			}
+@section ('title')
+	Abhiijt Pradhan
+@stop
 
-			.container {
-				text-align: center;
-				display: table-cell;
-				vertical-align: middle;
-			}
+@section ('head')
+	<link rel="stylesheet" type="text/css" href="{{ asset('css/welcome.css') }}">
+@stop
 
-			.content {
-				text-align: center;
-				display: inline-block;
-			}
+@section ('menu')
+<div class="col-md-4 menu">
+	<div class="icons">
+		<i class="fa fa-briefcase fa-3x"></i>
+		<i class="fa fa-graduation-cap fa-3x"></i>
+		<i class="fa fa-laptop fa-3x"></i>
+	</div>
+	<div class="menu-links">
+		<h3><a href="/work">Work</a></h3>
+		<h3><a href="/education">Education</a></h3>
+		<h3><a href="/apps">Apps</a></h3>
+	</div>
+</div>
+@stop
 
-			.title {
-				font-size: 96px;
-				margin-bottom: 40px;
-			}
+@section ('content')
 
-			.quote {
-				font-size: 24px;
-			}
-		</style>
-	</head>
-	<body>
-		<div class="container">
-			<div class="content">
-				<div class="title">Laravel 5</div>
-				<div class="quote">{{ Inspiring::quote() }}</div>
-			</div>
-		</div>
-	</body>
-</html>
+@stop
+	
