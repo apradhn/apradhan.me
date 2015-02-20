@@ -18,6 +18,11 @@ Route::get('work', function()
 	return View::make('work');
 });
 
+Route::get('education', function()
+{
+	return View::make('education');
+});
+
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
