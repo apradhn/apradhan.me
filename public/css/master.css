@@ -8,6 +8,7 @@
 }
 body {
   background-color: #eeeeee;
+  font-family: #000000;
 }
 .masthead {
   font-family: 'Raleway', sans-serif;
@@ -53,4 +54,16 @@ h2.city {
   font-variant: small-caps;
   letter-spacing: 3px;
   font-size: 30px;
+}
+/* styles for content */
+.content {
+  margin-top: 100px;
+}
+.profile {
+  font-family: 'Lato', sans-serif;
+}
+.profile p {
+  border-top: 1px solid black;
+  padding-top: 10px;
+  font-size: 16px;
 }
