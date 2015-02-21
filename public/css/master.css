@@ -122,8 +122,6 @@ a.active {
 .list {
   font-size: 16px;
   margin-top: 10px;
-  /*	position: relative;
-	left: -1em; */
 }
 .list ul {
   list-style: disc outside none;
@@ -132,4 +130,16 @@ a.active {
 }
 .list ul li {
   line-height: 1.75;
+}
+/* styles for footer */
+.footer a,
+.footer a:hover,
+.footer a:focus {
+  color: #2979ff;
+  font-family: 'Lato', sans-serif;
+}
+.footer a:hover,
+.footer a:focus {
+  text-decoration: none;
+  border-bottom: 1px solid #2979ff;
 }

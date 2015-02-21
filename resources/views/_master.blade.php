@@ -32,6 +32,10 @@
 			</div>
 
 			@yield('content')
+
+			<div class="col-md-offset-1 footer">
+				<a href="mailto:abhijit@apradhan.me">abhijit@apradhan.me</a>
+			</div>
 			
 		</div>
 	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
