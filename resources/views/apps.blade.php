@@ -23,13 +23,13 @@
 		</div>
 		<div class="menu-col menu-links">
 			<div class="menu-cell">
-				<h3><a href="/work">Work</a></h3>
+				<h3 class="heading"><a href="/work">Work</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a href="/education">Education</a></h3>
+				<h3 class="heading"><a href="/education">Education</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a class="active" href="/apps">Apps</a></h3>
+				<h3 class="heading"><a class="active" href="/apps">Apps</a></h3>
 			</div>
 		</div>
 	</div>
@@ -37,16 +37,13 @@
 
 @section('content')
 	<div class="row feature">
-		<div class="col-md-1 col-md-offset-1">
-			<i class="fa fa-laptop fa-3x circle"></i>
-		</div>
-		<div class="col-md-9">
+		<div class="col-md-9 col-md-offset-1">
 			<div class="heading feature-heading">Apps</div>	
 		</div>
 	</div>
 
 	<div class="row feature-main apps">
-		<div class="col-md-4 col-md-offset-2">
+		<div class="col-md-4 col-md-offset-1">
 			<div class="subheading">
 				TALOS
 			</div>
