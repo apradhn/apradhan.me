@@ -58,6 +58,9 @@ h2.city {
   letter-spacing: 3px;
   font-size: 30px;
 }
+.menu-links h3 a {
+  line-height: 1.5;
+}
 .menu a,
 .menu a:hover,
 .menu a:focus {
