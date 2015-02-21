@@ -45,19 +45,6 @@ h2.city {
 .menu {
   margin-top: 30px;
 }
-.menu-col {
-  float: left;
-}
-.menu-cell {
-  height: 42px;
-}
-.menu-col.menu-links {
-  margin-left: 20px;
-  font-family: 'Raleway', sans-serif;
-  font-variant: small-caps;
-  letter-spacing: 3px;
-  font-size: 30px;
-}
 .menu a,
 .menu a:hover,
 .menu a:focus {
@@ -71,6 +58,17 @@ h2.city {
 .menu i {
   display: block;
   margin-top: 20px;
+}
+.icons {
+  float: left;
+  margin-right: 20px;
+}
+.menu-links h3 {
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  font-variant: small-caps;
+  letter-spacing: 3px;
+  font-size: 30px;
 }
 .icons a,
 .icons a:hover,
