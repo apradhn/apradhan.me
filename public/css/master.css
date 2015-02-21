@@ -86,7 +86,7 @@ a.active {
 }
 /* styles for content */
 .feature {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 .profile {
   font-family: 'Lato', sans-serif;
@@ -96,21 +96,15 @@ a.active {
   padding-top: 10px;
   font-size: 16px;
 }
-.fa.fa-briefcase.fa-3x.circle {
-  color: #eeeeee;
-  padding: 15px;
-  border-radius: 99%;
-  background-color: #333333;
-}
 .feature .heading {
   padding-top: 15px;
 }
 .feature-heading {
-  border-top: 2px solid black;
+  border-bottom: 2px solid black;
 }
 .feature-main {
   font-family: 'Lato', sans-serif;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 .subheading {
   font-family: 'Raleway', sans-serif;
@@ -128,8 +122,8 @@ a.active {
 .list {
   font-size: 16px;
   margin-top: 10px;
-  position: relative;
-  left: -1em;
+  /*	position: relative;
+	left: -1em; */
 }
 .list ul {
   list-style: disc outside none;
