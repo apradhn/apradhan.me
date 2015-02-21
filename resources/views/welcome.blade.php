@@ -37,7 +37,7 @@
 
 @section ('content')
 	<div class="row feature">
-		<div class="col-md-5 col-md-offset-1 profile">
+		<div class="col-md-7 col-md-offset-1 col-sm-8 profile">
 			<p>
 			Productive and resourceful web professional seeking front-end web development opportunities in Chicago, with experience in Web Design and Customer Service. Quick to learn new 
 	programming languages and technologies. Enjoys creative problem solving and skilled at clearly communicating technical issues with team members.
