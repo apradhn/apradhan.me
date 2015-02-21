@@ -14,7 +14,7 @@ body {
 /* Styles for mastehead*/
 .masthead {
   font-family: 'Raleway', sans-serif;
-  margin-top: 50px;
+  margin-top: 5%;
 }
 .masthead .email {
   font-family: 'Lato', sans-serif;
@@ -38,7 +38,7 @@ h2.city {
 }
 .job {
   opacity: 0.54;
-  margin-top: 50px;
+  margin-top: 5%;
   line-height: 1.2;
 }
 /* styles for menu */
