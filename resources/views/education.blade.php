@@ -32,7 +32,9 @@
 			<div class="heading feature-heading">Education</div>	
 		</div>
 	</div>
+
 	<div class="row feature-main">
+	
 		<div class="col-md-4 col-md-offset-2">
 			<div class="subheading">
 				Macalester College

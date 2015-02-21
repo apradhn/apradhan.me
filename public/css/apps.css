@@ -1,0 +1,43 @@
+.fa.fa-laptop.fa-3x.circle {
+  color: #eeeeee;
+  padding: 15px;
+  border-radius: 99%;
+  background-color: #333333;
+}
+.fa.fa-link.fa-2x.circle {
+  color: #eeeeee;
+  padding: 8px;
+  border-radius: 99%;
+  background-color: #333333;
+}
+.fa.fa-github-alt.fa-2x.circle {
+  color: #eeeeee;
+  padding: 8px;
+  border-radius: 99%;
+  background-color: #333333;
+}
+.link-panel {
+  margin-top: 10px;
+  position: relative;
+  /* left: -4em */
+}
+.link-panel i {
+  margin-right: 10px;
+}
+.link-panel a,
+.link-panel a:hover,
+.link-panel a:focus {
+  color: #2979ff;
+}
+.link-panel a:hover,
+.link-panel a:focus {
+  text-decoration: none;
+  border-bottom: 1px solid #2979ff;
+}
+.apps .subheading-secondary {
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
+.app-links {
+  margin-bottom: 20px;
+}

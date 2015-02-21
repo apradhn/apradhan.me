@@ -23,6 +23,11 @@ Route::get('education', function()
 	return View::make('education');
 });
 
+Route::get('apps', function()
+{
+	return View::make('apps');
+});
+
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
