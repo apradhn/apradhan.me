@@ -23,13 +23,13 @@
 		</div>
 		<div class="menu-col menu-links">
 			<div class="menu-cell">
-				<h3><a href="/work">Work</a></h3>
+				<h3 class="heading"><a href="/work">Work</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a href="/education">Education</a></h3>
+				<h3 class="heading"><a href="/education">Education</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a href="/apps">Apps</a></h3>
+				<h3 class="heading"><a href="/apps">Apps</a></h3>
 			</div>
 		</div>
 	</div>
