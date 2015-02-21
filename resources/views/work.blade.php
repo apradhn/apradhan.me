@@ -55,12 +55,12 @@
 			</div>
 			<div class="list">
 				<ul>
-				    <li>Custom Web Design</li>
-				    <li>Troubleshoot CMS issues via phone and email</li>
-				    <li>Domain management</li>
-				    <li>Setup Google Analytics</li>
-				    <li>Provide SEO advice</li>
-				    <li>Resolve billing issues</li>
+				    <li>Instruct customers on usage of the in-house CMS, via phone and email</li>
+				    <li>Custom Web Design for features not available in the supplied templates</li>
+				    <li>Troubleshoot editing issues and debug site rendering errors</li>
+				    <li>Domain setup assistance, e.g. transfers, requests, DNS records</li>
+				    <li>Set up Google Analytics, provide SEO advice</li>
+				    <li>Create &amp; cancel subscriptions, update billing with BrainTree payment gateway</li>
 				</ul>
 			</div>
 		</div>
@@ -77,12 +77,12 @@
 			</div>
 			<div class="list">
 				<ul>
-				    <li>Custom Web Design</li>
-				    <li>Troubleshoot CMS issues via phone and email</li>
+				    <li>Led after-school technology classes for children ages 10-12</li>
+				    <li>Courses taught: Google Sketchup, Robotics, Stop-motion animation, Minecraft</li>
 				    <li>Domain management</li>
-				    <li>Setup Google Analytics</li>
-				    <li>Provide SEO advice</li>
-				    <li>Resolve billing issues</li>
+				    <li>Troubleshoot mechanical and software issues as needed</li>
+				    <li>Responsible for transportation and setup of class materials</li>
+				    <li>Resolve student emergencies e.g., disruptions, bullying, health, and students with special needs</li>
 				</ul>
 			</div>
 		</div>
@@ -99,12 +99,11 @@
 			</div>
 			<div class="list">
 				<ul>
-				    <li>Custom Web Design</li>
-				    <li>Troubleshoot CMS issues via phone and email</li>
-				    <li>Domain management</li>
-				    <li>Setup Google Analytics</li>
-				    <li>Provide SEO advice</li>
-				    <li>Resolve billing issues</li>
+				    <li>Index +5000 documents daily using electronic filing software for Wells Fargo</li>
+				    <li>Maintain 99% quality goal sorting legal and lending documents</li>
+				    <li>Responsible for learning ~100 documents, updated monthly.</li>
+				    <li>Learn new business lines dependent on volume of work.</li>
+				    <li>Help train new hirees</li>
 				</ul>			
 			</div>
 		</div>
