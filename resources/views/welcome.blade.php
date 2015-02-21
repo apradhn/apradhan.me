@@ -41,6 +41,27 @@
 			<p>
 			Enterprising and collaborative web professional available for freelance Web Design, and seeking long-term employment in Front-End Web Development.
 			</p>
+			<div class="heading feature-heading">
+				Skills
+			</div>
+			<div class="skills-list">
+				<ul>
+				    <li>HTML</li>
+				    <li>CSS</li>
+				    <li>JavaScript</li>
+				    <li>jQuery</li>
+				    <li>PHP</li>
+				    <li>WordPress</li>
+				    <li>Drupal</li>
+				    <li>Laravel</li>
+				    <li>Bootstrap</li>
+				    <li>LESS</li>
+				    <li>Illustrator</li>
+				    <li>InDesign</li>	
+				    <li>Processing</li>
+				    <li>Arduino</li>				
+				</ul>
+			</div>
 		</div>
 	</div>
 @stop

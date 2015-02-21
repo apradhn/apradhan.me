@@ -4,6 +4,7 @@
 		<title>@yield('title', 'Abhijit Pradhan')</title>
 		<meta charset="utf-8">
 		<meta name="description" content="Abhijit Pradhan: Web Design &amp; Front End Development">
+		<meta name="keywords" content="Chicago, Web Design, Front End Web Development">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Google Fonts --> 
 		<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
