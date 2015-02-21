@@ -23,30 +23,27 @@
 		</div>
 		<div class="menu-col menu-links">
 			<div class="menu-cell">
-				<h3><a href="/work">Work</a></h3>
+				<h3 class="heading"><a href="/work">Work</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a class="active" href="/education">Education</a></h3>
+				<h3 class="heading"><a class="active" href="/education">Education</a></h3>
 			</div>
 			<div class="menu-cell">
-				<h3><a href="/apps">Apps</a></h3>
+				<h3 class="heading"><a href="/apps">Apps</a></h3>
 			</div>
 		</div>
 	</div>
 @stop
 @section('content')
 	<div class="row feature">
-		<div class="col-md-1 col-md-offset-1">
-			<i class="fa fa-graduation-cap fa-3x circle"></i>
-		</div>
-		<div class="col-md-9">
+		<div class="col-md-9 col-md-offset-1">
 			<div class="heading feature-heading">Education</div>	
 		</div>
 	</div>
 
 	<div class="row feature-main">
 
-		<div class="col-md-4 col-md-offset-2">
+		<div class="col-md-4 col-md-offset-1">
 			<div class="subheading">
 				Macalester College
 			</div>
@@ -70,7 +67,7 @@
 			</div>		
 		</div>
 
-		<div class="col-md-4 col-md-offset-2">
+		<div class="col-md-4 col-md-offset-1">
 			<div class="subheading">
 				University of Iowa
 			</div>
@@ -81,9 +78,9 @@
 	</div>	
 
 	<div class="row">
-		<div class="col-md-4 col-md-offset-2">
+		<div class="col-md-4 col-md-offset-1">
 			<div class="feature-main awards">
-				<div class="heading">
+				<div class="heading feature-heading">
 					Awards
 				</div>
 				<div class="subheading">
