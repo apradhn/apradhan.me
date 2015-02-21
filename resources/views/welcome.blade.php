@@ -5,7 +5,7 @@
 @stop
 
 @section ('head')
-	<link rel="stylesheet" type="text/css" href="{{ asset('css/welcome.css') }}">
+	
 @stop
 
 @section('menu')
