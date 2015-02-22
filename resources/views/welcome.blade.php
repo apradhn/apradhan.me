@@ -57,7 +57,8 @@
 				    <li>Bootstrap</li>
 				    <li>LESS</li>
 				    <li>Illustrator</li>
-				    <li>InDesign</li>	
+				    <li>InDesign</li>
+				    <li>Photoshop</li>	
 				    <li>Processing</li>
 				    <li>Arduino</li>				
 				</ul>
