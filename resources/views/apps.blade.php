@@ -45,6 +45,25 @@
 	<div class="row feature-main apps">
 		<div class="col-md-4 col-md-offset-1">
 			<div class="subheading">
+				Minimal Pokédex
+			</div>
+			<div class="subheading-secondary">
+				Pokémon Data Visualizations with AJAX powered search.
+			</div>
+			<div class="app-links">
+				<div class="link-panel">
+					<i class="fa fa-link fa-2x circle"></i>
+					<a href="http://pokedex.apradhan.me/">View</a>
+				</div>
+				<div class="link-panel">
+					<i class="fa fa-github-alt fa-2x circle"></i>
+					<a href="https://github.com/apradhn/pokedex">View on Github</a>
+				</div>				
+			</div>					
+		</div>
+
+		<div class="col-md-4">
+			<div class="subheading">
 				TALOS
 			</div>
 			<div class="subheading-secondary">
@@ -60,24 +79,6 @@
 					<a href="https://github.com/apradhn/p4">View on Github</a>
 				</div>				
 			</div>			
-		</div>
-		<div class="col-md-4">
-			<div class="subheading">
-				Developer's Best Friend
-			</div>
-			<div class="subheading-secondary">
-				Placeholder Data Generator
-			</div>
-			<div class="app-links">
-				<div class="link-panel">
-					<i class="fa fa-link fa-2x circle"></i>
-					<a href="http://p3.apradhan.me/">View</a>
-				</div>
-				<div class="link-panel">
-					<i class="fa fa-github-alt fa-2x circle"></i>
-					<a href="https://github.com/apradhn/p3">View on Github</a>
-				</div>				
-			</div>					
 		</div>
 	</div>	
 
